@@ -11,6 +11,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      
+        fontFamily: {
+          sora: ['Sora', 'sans-serif'],
+          code: ['Source Code Pro', 'monospace'],
+          grotesk: ['Space Grotesk', 'sans-serif'],
+        },
     },
   },
   plugins: [],
